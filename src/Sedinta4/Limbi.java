@@ -1,0 +1,5 @@
+package Sedinta4;
+
+public enum Limbi {
+    ENGLEZA, ROMANA, FRANCEZA, GERMANA, SPANIOLA, ITALIANA, PORTUGHEZA
+}
